@@ -2,6 +2,10 @@
 
 This is a simple project to show basic html page and routing using node.js
 
+## Requirements
+* Node.js
+* Any web browser
+
 
 ### 1. how to install dependencies
 ```sh
